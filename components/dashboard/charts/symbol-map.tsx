@@ -29,7 +29,7 @@ export function SymbolMap() {
 
   useEffect(() => {
     let cancelled = false;
-    fetch("/geo/provincias.json")
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/geo/provincias.json`)
       .then((response) => {
         if (!response.ok) throw new Error("mapa");
         return response.json() as Promise<Geo>;

@@ -2,6 +2,24 @@
 
 Proyecto final de Valentino Nicolas Vallone.
 
+Para ver el tablero, abrí este link:
+
+https://pipodatabase.github.io/entrega-final-alquileres-temporarios/
+
+Las fotos de abajo son las tres hojas, por si el link tarda un minuto en cargar.
+
+## Hoja 1 · Panorama
+
+![Panorama del tablero](docs/panorama.png)
+
+## Hoja 2 · Diagnóstico
+
+![Diagnóstico del tablero](docs/diagnostico.png)
+
+## Hoja 3 · Documentación
+
+![Documentación del tablero](docs/documentacion.png)
+
 Tablero de tres hojas sobre reservas de alquiler temporario en 15 ciudades de Argentina. El check-in va de enero de 2023 al 17 de diciembre de 2025 y responde una pregunta: los ingresos de 2025 aflojan y la cancelación sube. ¿Qué plaza se cuida, qué anfitrión se revisa y dónde conviene pedir una seña?
 
 Usa el mismo dataset de la pre-entrega 1. No usa la base Supertienda. Los importes están en pesos.
